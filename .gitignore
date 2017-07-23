@@ -1,0 +1,5 @@
+.~lock.*
+.ipynb_checkpoints
+*.pyc
+*.zip
+raw_data
